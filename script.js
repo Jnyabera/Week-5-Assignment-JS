@@ -1,5 +1,4 @@
-<script>
-  // 1. Change text content dynamically
+ // 1. Change text content dynamically
   document.addEventListener("DOMContentLoaded", () => {
     const logo = document.querySelector(".logo");
     logo.textContent = "WELCOME TO PINGLINK!";
@@ -39,4 +38,4 @@
       }
     });
   });
-</script>
+
